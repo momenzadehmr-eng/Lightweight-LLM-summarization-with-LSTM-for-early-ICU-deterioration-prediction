@@ -1,0 +1,33 @@
+# Data — never commit MIMIC-IV
+*.csv
+!data/itemid_reference.csv
+*.parquet
+*.pkl
+*.npz
+*.npy
+data/cohort/
+data/processed/
+data/embeddings/
+data/notes/
+
+# Models
+*.pt
+*.ckpt
+checkpoints/
+runs/
+outputs/
+
+# Config with credentials
+config/local_config.yaml
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

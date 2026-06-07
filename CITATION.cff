@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software."
+title: "Lightweight LLM Summarization with LSTM for Early ICU Deterioration Prediction"
+authors:
+  - family-names: "Momenzadeh"
+    given-names: "Mohammadreza"
+    affiliation: "Isfahan University of Medical Sciences"
+  - family-names: "Oshaghi"
+    given-names: "Atiyeh"
+    affiliation: "Isfahan University of Medical Sciences"
+version: "1.0.0"
+date-released: "2025-01-01"
+license: MIT
+repository-code: "https://github.com/<USERNAME>/icu-llm-lstm"
+doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "Lightweight LLM summarization with LSTM for early ICU deterioration prediction"
+  authors:
+    - family-names: "Momenzadeh"
+      given-names: "Mohammadreza"
+    - family-names: "Oshaghi"
+      given-names: "Atiyeh"
+  journal: "Scientific Reports"
+  year: 2025
