@@ -118,5 +118,4 @@ covered by this license and is governed by the PhysioNet credentialed DUA.
 
 ## Citation
 
-If you use this code, please cite the manuscript and this repository (see
-`CITATION.cff`).
+If you use this code, please cite the manuscript.
