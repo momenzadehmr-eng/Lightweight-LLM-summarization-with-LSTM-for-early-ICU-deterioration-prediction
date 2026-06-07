@@ -4,7 +4,6 @@ Reference implementation for the manuscript:
 
 > **Lightweight LLM summarization with LSTM for early ICU deterioration prediction**
 > Mohammadreza Momenzadeh, Atiyeh Oshaghi
-> *Scientific Reports* (under revision)
 
 This repository contains the code, SQL extraction logic, prompt templates, model
 definitions, training/evaluation pipeline, and configuration needed to reproduce
@@ -117,7 +116,4 @@ python -m src.sensitivity --config config/local_config.yaml
 Code released under the MIT License (see `LICENSE`). MIMIC-IV data is **not**
 covered by this license and is governed by the PhysioNet credentialed DUA.
 
-## Citation
 
-If you use this code, please cite the manuscript and this repository (see
-`CITATION.cff`).
