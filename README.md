@@ -4,7 +4,6 @@ Reference implementation for the manuscript:
 
 > **Lightweight LLM summarization with LSTM for early ICU deterioration prediction**
 > Mohammadreza Momenzadeh, Atiyeh Oshaghi
-> *Scientific Reports* (under revision)
 
 This repository contains the code, SQL extraction logic, prompt templates, model
 definitions, training/evaluation pipeline, and configuration needed to reproduce
